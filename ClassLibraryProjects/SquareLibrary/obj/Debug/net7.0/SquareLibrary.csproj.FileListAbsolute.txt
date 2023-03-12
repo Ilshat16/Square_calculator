@@ -1,0 +1,12 @@
+D:\Work\Square calculator\ClassLibraryProjects\SquareLibrary\bin\Debug\net7.0\SquareLibrary.deps.json
+D:\Work\Square calculator\ClassLibraryProjects\SquareLibrary\bin\Debug\net7.0\SquareLibrary.dll
+D:\Work\Square calculator\ClassLibraryProjects\SquareLibrary\bin\Debug\net7.0\SquareLibrary.pdb
+D:\Work\Square calculator\ClassLibraryProjects\SquareLibrary\obj\Debug\net7.0\SquareLibrary.csproj.AssemblyReference.cache
+D:\Work\Square calculator\ClassLibraryProjects\SquareLibrary\obj\Debug\net7.0\SquareLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work\Square calculator\ClassLibraryProjects\SquareLibrary\obj\Debug\net7.0\SquareLibrary.AssemblyInfoInputs.cache
+D:\Work\Square calculator\ClassLibraryProjects\SquareLibrary\obj\Debug\net7.0\SquareLibrary.AssemblyInfo.cs
+D:\Work\Square calculator\ClassLibraryProjects\SquareLibrary\obj\Debug\net7.0\SquareLibrary.csproj.CoreCompileInputs.cache
+D:\Work\Square calculator\ClassLibraryProjects\SquareLibrary\obj\Debug\net7.0\SquareLibrary.dll
+D:\Work\Square calculator\ClassLibraryProjects\SquareLibrary\obj\Debug\net7.0\refint\SquareLibrary.dll
+D:\Work\Square calculator\ClassLibraryProjects\SquareLibrary\obj\Debug\net7.0\SquareLibrary.pdb
+D:\Work\Square calculator\ClassLibraryProjects\SquareLibrary\obj\Debug\net7.0\ref\SquareLibrary.dll

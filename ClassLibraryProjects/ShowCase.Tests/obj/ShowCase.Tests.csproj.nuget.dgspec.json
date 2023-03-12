@@ -1,0 +1,199 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Work\\Square calculator\\ClassLibraryProjects\\ShowCase.Tests\\ShowCase.Tests.csproj": {}
+  },
+  "projects": {
+    "D:\\Work\\Square calculator\\ClassLibraryProjects\\ShowCase.Tests\\ShowCase.Tests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Work\\Square calculator\\ClassLibraryProjects\\ShowCase.Tests\\ShowCase.Tests.csproj",
+        "projectName": "ShowCase.Tests",
+        "projectPath": "D:\\Work\\Square calculator\\ClassLibraryProjects\\ShowCase.Tests\\ShowCase.Tests.csproj",
+        "packagesPath": "C:\\Users\\illli\\.nuget\\packages\\",
+        "outputPath": "D:\\Work\\Square calculator\\ClassLibraryProjects\\ShowCase.Tests\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\illli\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "D:\\Work\\Square calculator\\ClassLibraryProjects\\ShowCase\\ShowCase.csproj": {
+                "projectPath": "D:\\Work\\Square calculator\\ClassLibraryProjects\\ShowCase\\ShowCase.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "MSTest.TestAdapter": {
+              "target": "Package",
+              "version": "[2.2.10, )"
+            },
+            "MSTest.TestFramework": {
+              "target": "Package",
+              "version": "[2.2.10, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.3.2, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[3.1.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Work\\Square calculator\\ClassLibraryProjects\\ShowCase\\ShowCase.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Work\\Square calculator\\ClassLibraryProjects\\ShowCase\\ShowCase.csproj",
+        "projectName": "ShowCase",
+        "projectPath": "D:\\Work\\Square calculator\\ClassLibraryProjects\\ShowCase\\ShowCase.csproj",
+        "packagesPath": "C:\\Users\\illli\\.nuget\\packages\\",
+        "outputPath": "D:\\Work\\Square calculator\\ClassLibraryProjects\\ShowCase\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\illli\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "D:\\Work\\Square calculator\\ClassLibraryProjects\\SquareLibrary\\SquareLibrary.csproj": {
+                "projectPath": "D:\\Work\\Square calculator\\ClassLibraryProjects\\SquareLibrary\\SquareLibrary.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Work\\Square calculator\\ClassLibraryProjects\\SquareLibrary\\SquareLibrary.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Work\\Square calculator\\ClassLibraryProjects\\SquareLibrary\\SquareLibrary.csproj",
+        "projectName": "SquareLibrary",
+        "projectPath": "D:\\Work\\Square calculator\\ClassLibraryProjects\\SquareLibrary\\SquareLibrary.csproj",
+        "packagesPath": "C:\\Users\\illli\\.nuget\\packages\\",
+        "outputPath": "D:\\Work\\Square calculator\\ClassLibraryProjects\\SquareLibrary\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\illli\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
